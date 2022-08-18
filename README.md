@@ -1,4 +1,6 @@
 # 基于Nodejs的艺恩票房数据可视化
+## 项目演示
+[http://119.29.141.196](http://119.29.141.196:3020)
 
 ## 快速上手
 ### 环境安装
@@ -9,12 +11,10 @@
 npm install -g @vue/cli
 ```
 ### Node服务
-node目录下
 ```
 node app.js
 ```
-### Vue
-vue目录下
+### Vue启动
 ```
 npm run serve
 ```
