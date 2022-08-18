@@ -1,5 +1,5 @@
-# yien_project
-基于Nodejs的艺恩票房数据可视化
+# 基于Nodejs的艺恩票房数据可视化
+
 ## 快速上手
 ### 环境安装
 #### Nodejs安装：
